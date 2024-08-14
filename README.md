@@ -1,14 +1,11 @@
 # Alai Coding Challenge: TLDraw Timeline Implementation
 
-Welcome to the Alai Coding Challenge! This project is set up with React, TypeScript, and TLDraw.
+The task is to create a timeline component using TLDraw, similar to the one found on https://getalai.com/. One must also implement a user input feature to dynamically generate timeline elements.
 
-## Challenge Overview
-
-Your task is to create a timeline component using TLDraw, similar to the one found on https://getalai.com/. You will also need to implement a user input feature to dynamically generate timeline elements.
-
-## Tasks
+## Assigned Tasks
 
 1. Create a timeline element using TLDraw similar to what you can see on https://getalai.com/
+   
    ![Timeline Example](./src/assets/timeline.png)
 
 2. Add an input field where the user can enter desired number of items and a generate button. When the user clicks generate,
@@ -17,36 +14,35 @@ Your task is to create a timeline component using TLDraw, similar to the one fou
 ## Getting Started
 
 1. Clone this repository
+   ```bash
+    # Clone this repository
+    $ git clone https://github.com/AmanKrSahu/Alai-Coding-Challenge.git
+    ```
+   
 2. Install dependencies:
-   ```
+   ```bash
+   # Installing necessary packages using npm
    npm install
    ```
+   
 3. Run the development server:
-   ```
+   ```bash
+   # Setting up the dev environment
    npm run dev
    ```
+   
 4. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal)
 
-## Project Structure
+## Feature or Interface
 
-- `src/App.tsx`: Main application component
-- `src/TldrawComponent.tsx`: TLDraw canvas implementation (You'll likely need to modify this)
+![Tldraw Timeline](https://github.com/user-attachments/assets/a7a62fb0-785c-4224-8238-a8c6909f21d0)
 
-## Evaluation Criteria
+## Tools and Languages
 
-- Feature completion: All required features are fully implemented and functional.
-- Code quality and organization
-- Proper use of React, TypeScript, and TLDraw
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react.js" height="45" width="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="45" width="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="45" width="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" height="45" width="45"/>     
 
-## Submission
+## Need Help??
 
-Please create a private repo for your submission to avoid leaking the solution. Add our emails (krishna@getalai.com and anmol@getalai.com) when you're ready for review.
-Include a brief description of your approach and any challenges you faced.
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/amankrsahu/)
 
-## Resources
-
-- [TLDraw Documentation](https://tldraw.dev/)
-- [React Documentation](https://reactjs.org/)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-
-Good luck, and we look forward to seeing your implementation!
+[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.amansahu/) &nbsp; [![Discord URL](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/539751578866024479)
